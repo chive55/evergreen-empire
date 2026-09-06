@@ -27,4 +27,4 @@ The promotional artwork is AI-generated concept artwork, not a gameplay screensh
 
 HTML structure and JavaScript syntax were checked. Core mechanics were tested for tapping, purchases, escalating costs, passive income, prestige, saving, reset, offline limits, and corrupt-save recovery.
 
-The game includes embedded city-growth artwork with a progress indicator that advances from village to town when you recruit a soldier, and to city when you acquire a territory. Existing browser saves remain compatible.
+The game includes one evolving illustrated city, drawn directly in the HTML. Each village adds a home (up to 24 visible homes), soldiers patrol the streets (up to 10 visible), and trade charters add market stalls (up to four). Royal decrees add a town banner. Territories gradually add a keep, towers, walls, and a gate, with the city fully fortified at eight territories. Purchases beyond the visual limits continue increasing income. Prestige starts the city over while retaining crown bonuses. Existing saves remain compatible.
