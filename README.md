@@ -26,3 +26,5 @@ The promotional artwork is AI-generated concept artwork, not a gameplay screensh
 ## Validation
 
 HTML structure and JavaScript syntax were checked. Core mechanics were tested for tapping, purchases, escalating costs, passive income, prestige, saving, reset, offline limits, and corrupt-save recovery.
+
+The game includes embedded city-growth artwork with a progress indicator that advances from village to town when you recruit a soldier, and to city when you acquire a territory. Existing browser saves remain compatible.
